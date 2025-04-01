@@ -1,6 +1,6 @@
-if numpad-generic
+if SHIELD_GENERIC_NUMPAD
 
 config ZMK_KEYBOARD_NAME
-    default "Generic Numpad"
+    default "generic-numpad"
 
 endif
