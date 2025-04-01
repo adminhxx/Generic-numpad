@@ -1,0 +1,9 @@
+---
+file_format: "1"
+id: weejock
+name: Wee Jock
+type: shield
+url: https://github.com/amacleod/weejock
+requires: [pro_micro]
+exposes: []
+features: [keys]
