@@ -56,7 +56,7 @@
         };
         action_layer {
             bindings = <
-    &trans       &trans          &trans       &trans
+    &trans       &studio_unlock          &trans       &studio_unlock
     &trans       &trans          &trans       &trans
     &kp LEFT     &trans          &kp RIGHT
     &trans       &trans          &trans       &trans
