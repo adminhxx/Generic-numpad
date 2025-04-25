@@ -36,9 +36,9 @@
       // |#####| Ins |     |     |
       // `-----------------------'
       bindings = <
-        &BT_PRV         &BT_SEL   &BT_NXT    &BT_DISC
-        &kp HOME        &kp UP    &kp PG_UP  &BT_CLR
-        &kp LEFT        &none     &kp RIGHT  &BT_CLR_ALL
+        &bt BT_PRV      &bt BT_SEL   &bt BT_NXT    &bt BT_DISC
+        &kp HOME        &kp UP    &kp PG_UP  &bt BT_CLR
+        &kp LEFT        &none     &kp RIGHT  &bt BT_CLR_ALL
         &kp END         &kp DOWN  &kp PG_DN  &trans
         &trans          &kp INS   &trans     &trans
       >;
